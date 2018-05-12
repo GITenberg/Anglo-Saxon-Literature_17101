@@ -1,0 +1,28 @@
+_repo: Anglo-Saxon-Literature_17101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Earle, John
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '7142'
+    url: http://www.gutenberg.org/2009/agents/7142
+description: ''
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Civilization, Medieval, in literature'
+- !lcsh 'Civilization, Anglo-Saxon, in literature'
+- !lcsh 'English literature -- Old English, ca. 450-1100 -- History and criticism'
+title: Anglo-Saxon Literature
+url: http://www.gutenberg.org/ebooks/17101
